@@ -7,3 +7,5 @@ my_agent/.env
 scripting_cny.py
 
 **/.adk
+
+my_agent/__pycache__/
