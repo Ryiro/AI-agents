@@ -1,8 +1,6 @@
-from google.adk.agents.llm_agent import Agent
-
 # Mock tool implementation
 import datetime
-from google.adk.agents.llm_agent import Agent
+from google.adk.agents.llm_agent import Agent  # type: ignore
 
 
 def get_utc_time() -> str:
